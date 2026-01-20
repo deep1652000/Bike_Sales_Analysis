@@ -123,7 +123,8 @@ Preview
 - Sync Slicer  
   
 Preview
-<img width="878" height="484" alt="Map Overview" src="https://github.com/user-attachments/assets/cea0b7b1-371a-4a37-9240-bde42dc51c8e" />
+<img width="877" height="483" alt="Map Overview" src="https://github.com/user-attachments/assets/47fa0c98-fb96-4ce7-b960-fae90aedac81" />
+
 
 
 ### 3️⃣ Product and Return Performance
