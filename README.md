@@ -83,8 +83,8 @@ The bike sales company generates large volumes of transactional data across mult
 
   
 🗂️ Data Modeling
-Fact Table: Sales
-Dimensions: Customers, Products, Returns, Territories, Categories, Subcategories, Date
+- Fact Table: Sales
+- Dimensions: Customers, Products, Returns, Territories, Categories, Subcategories, Date
 Preview of Star Schema Model
 <img width="976" height="458" alt="Data Model" src="https://github.com/user-attachments/assets/05b7e2cf-8794-4fe8-bdab-095e3a89e72c" />
 
